@@ -1,0 +1,20 @@
+:root {
+    /* 기본 배경 */
+    --color-background: #faf7f0;
+    --color-surface: #fffefa;
+
+    /* 주요 색상 */
+    --color-primary: #26364b;
+    --color-accent: #e87962;
+    --color-sky: #dcebf5;
+
+    /* 보조 색상 */
+    --color-text: #26364b;
+    --color-text-muted: #89919a;
+    --color-border: #e8e2d8;
+}
+
+body {
+    margin: 20px;
+}
+
