@@ -1,0 +1,11 @@
+.site-footer {
+    width: 100%;
+    border-top: 1px solid var(--color-border);
+    padding: 20px 0;
+    color: var(--color-text-muted);
+    font-size: 12px;
+}
+
+.site-footer p {
+    margin: 0;
+}

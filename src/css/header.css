@@ -1,0 +1,68 @@
+.site-header {
+    width: 100%;
+    padding: 20px 0;
+    background-color: var(--color-surface);
+}
+
+.header-inner {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.header-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+    color: var(--color-primary);
+    text-decoration: none;
+}
+
+
+
+.account-menu {
+    font-size: 12px;
+    display: flex;
+    gap: 12px;
+}
+
+.account-menu a {
+    color: var(--color-text-muted);
+    text-decoration: none;
+}
+
+.account-menu a:hover {
+    color: var(--color-accent);
+}
+
+
+
+.navigation {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+.navigation a {
+    font-size: 15px;
+    color: var(--color-primary);
+    text-decoration: none;
+}
+
+.navigation a:hover {
+    color: var(--color-accent);
+}
+
+
+
+
+
+
+
+
+
